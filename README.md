@@ -6,10 +6,10 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 To get inspired and learn more about designing prompts for different tasks:
 
-Read our [completion guide](https://beta.openai.com/docs/guides/completion/introduction).
-Explore our library of [example prompts](https://beta.openai.com/examples).
-Start experimenting in the [Playground](https://beta.openai.com/playground).
-Keep our [usage policies](https://beta.openai.com/docs/usage-policies) in mind as you start building.
+Read our [completion guide](https://beta.openai.com/docs/guides/completion/introduction).  
+Explore our library of [example prompts](https://beta.openai.com/examples).  
+Start experimenting in the [Playground](https://beta.openai.com/playground).  
+Keep our [usage policies](https://beta.openai.com/docs/usage-policies) in mind as you start building.  
 
 For more complex uses: 
 
