@@ -2,6 +2,19 @@
 
 This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
+## Next steps
+
+To get inspired and learn more about designing prompts for different tasks:
+
+Read our [completion guide](https://beta.openai.com/docs/guides/completion/introduction).
+Explore our library of [example prompts](https://beta.openai.com/examples).
+Start experimenting in the [Playground](https://beta.openai.com/playground).
+Keep our [usage policies](https://beta.openai.com/docs/usage-policies) in mind as you start building.
+
+For more complex uses: 
+
+[Pricing](https://openai.com/api/pricing/)
+
 ## Setup
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
